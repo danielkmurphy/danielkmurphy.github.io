@@ -4,9 +4,6 @@ title: "Contact Information"
 permalink: /contact/
 ---
 
-* Personal email: **[jameshoweee@gmail.com](mailto:jameshoweee@gmail.com)**.
-* Work email: **[james.howe@pqshield.com](mailto:james.howe@pqshield.com)**.
-* Twitter: **[@jameshowe1729](https://twitter.com/JamesHowe1729)**.
-* Instagram: **[@jamesvhowe](https://www.instagram.com/jamesvhowe/)**.
-* GitHub: **[jameshoweee](https://github.com/jameshoweee)**.
-* Google Scholar: **[James Howe](https://scholar.google.co.uk/citations?user=LItUNn4AAAAJ&hl=en)**.
+* Email: **[dannymurphy365@gmail.com](mailto:dannymurphy365@gmail.com)**.
+* Instagram: **[@danielmurphy_15](https://www.instagram.com/danielmurphy_15/)**.
+* Instagram: **[@upcycle_wanaka](https://www.instagram.com/upcycle_wanaka/)**.
