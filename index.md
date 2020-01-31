@@ -11,3 +11,7 @@ I am a qualified sustainability engineer (Level X of Y) and qualified carpenter 
 
 Since October 2016 I have been employed by [Level Construction](https://levelconstruction.co.nz/) in New Zealand.
 
+## My Projects and Passions
+
+From the Menu bar or on the links you can find details on the projects I have been involved in. These include building my own [Tiny Home](danielkmurphy.github.io/tinyhouse), Project A, Project B, and Project C.
+
