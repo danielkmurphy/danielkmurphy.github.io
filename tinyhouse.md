@@ -6,4 +6,4 @@ permalink: /tinyhouse/
 
 While living in Wanaka, NZ I built my own tiny house from stratch.
 
-<img align="right" src="files/tiny_house.jpg" alt="tiousenyh" style="width:215px; padding-left: 5px"/>
+<img align="right" src="files/tiny_house.jpg" alt="tinyhouse" style="width:215px; padding-left: 5px"/>
