@@ -5,10 +5,10 @@ permalink:           pretty
 #relative_permalinks: true
 
 # Setup
-title:               Dr. James Howe
-tagline:             'Cryptographic Engineer'
+title:               Daniel Murphy
+tagline:             'Sustainability Engineer, Carpenter, and Passivhaus Enthusiast'
 description:         'Personal home pages'
-url:                 http://jameshowe.eu
+url:                 https://danielkmurphy.github.io
 #http://lanyon.getpoole.com
 baseurl:             ''
 #paginate:            
@@ -16,8 +16,8 @@ baseurl:             ''
 
 # About/contact
 author:
-  name:              James Howe
-  email:             jameshoweee@gmail.com
+  name:              Daniel Murphy
+  email:             dannymurphy365@gmail.com
 
 # Custom vars
 #version:             1.0.0
