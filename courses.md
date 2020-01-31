@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publications
-permalink: /publications/
+title: Courses
+permalink: /courses/
 ---
 
 ## PhD Thesis
