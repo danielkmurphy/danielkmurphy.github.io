@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<img align="right" src="files/daniel.jpg" alt="drawing" style="width:215px; padding-left: 5px"/>
+<img align="right" src="files/48379893_2251636478194127_3344962796897959936_o-01.jpeg" alt="drawing" style="width:215px; padding-left: 5px"/>
 
 ## Professional
 
