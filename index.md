@@ -3,16 +3,11 @@ layout: default
 title: Home
 ---
 
-<img align="right" src="files/DSCF5469.jpg" alt="drawing" style="width:215px; padding-left: 5px"/>
+<img align="right" src="files/daniel.jpg" alt="drawing" style="width:215px; padding-left: 5px"/>
 
-## Professional 
+## Professional
 
-I'm a cryptographer, with a focus on practical implementations and cryptanalysis. 
-You can find a link to my publications on [Google Scholar](https://scholar.google.co.uk/citations?user=LItUNn4AAAAJ&hl=en).
+I am a qualified sustainability engineer (Level X of Y) and qualified carpenter (Leair quality, vel A of B) with a particular interest and passion in [Passive Housing (Passivhaus)](https://en.wikipedia.org/wiki/Passive_house) and the efficiency of heating systems and air quality. 
 
-Since May 2019 I have been employed at [PQShield Ltd.](https://pqshield.com/) as a Cryptography Engineer. Previously I was a post-doc at the University of Bristol in the [SCA / Crypto group](http://www.bristol-sca.com). Other previous research positions and education history can be found in my [CV](files/CV.pdf).
-
-## Research Interests
-
-The focus of my research is mainly based around post-quantum cryptography, in particular lattice-based cryptography, and investigating them with respect to optimised hardware designs, software designs, side-channel attacks, fault attacks, and countermeasures.
+Since October 2016 I have been employed by [Level Construction](https://levelconstruction.co.nz/) in New Zealand.
 
