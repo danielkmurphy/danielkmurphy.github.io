@@ -15,3 +15,14 @@ While living in Wanaka, NZ I designed, budgeted, and built my own tiny house. Th
 ![Tiny_House](files/tinyhouse3.jpg)
 
 ![Tiny_House](files/tinyhouse4.jpg)
+
+
+<img src="files/tinyhouse.jpg" width="200">
+
+<img src="files/tinyhouse1.jpg" width="200">
+
+<img src="files/tinyhouse2.jpg" width="200">
+
+<img src="files/tinyhouse3.jpg" width="200">
+
+<img src="files/tinyhouse4.jpg" width="200">
