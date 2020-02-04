@@ -8,4 +8,4 @@ While living in Wanaka, NZ I designed, budgeted, and built my own tiny house. Th
 
 ![Tiny House](/files/tinyhouse.jpg)
 
-<img align="right" src="files/tinyhouse.jpg" alt="tinyhouse"  style="width:215px; padding-left: 5px" />
+<img align="right" src="files/newspaper.png" alt="tinyhouse"  style="width:215px; padding-left: 5px" />
