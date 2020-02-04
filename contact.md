@@ -6,4 +6,3 @@ permalink: /contact/
 
 * Email: **[dannymurphy365@gmail.com](mailto:dannymurphy365@gmail.com)**.
 * Instagram: **[@danielmurphy_15](https://www.instagram.com/danielmurphy_15/)**.
-* Instagram: **[@upcycle_wanaka](https://www.instagram.com/upcycle_wanaka/)**.
