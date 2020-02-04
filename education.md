@@ -24,4 +24,9 @@ permalink: /education/
 
 <img align="right" src="files/newspaper.png" alt="drawing" style="width:215px; padding-left: 5px"/>
 
+<figure class="image">
+  <img src="{{ files/newspaper.png }}" alt="{{ newspaper }}">
+  <figcaption>{{ Newspaper clipping of the Apprentice of the month awards I received. }}</figcaption>
+</figure>
+
 
