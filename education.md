@@ -28,7 +28,7 @@ permalink: /education/
 
 <figure class="image">
   <img src="files/newspaper.png" alt="newspaper">
-  <figcaption>Newspaper clipping of the Apprentice of the month awards I received.</figcaption>
+  <figcaption>Newspaper clipping from the Cromwell News of the Apprentice of the Month awards I received.</figcaption>
 </figure>
 
 
