@@ -7,7 +7,7 @@ title: Home
 
 ## Professional
 
-I am a qualified Sustainability Engineer and qualified Builder/Carpenter with a particular interest and passion in [Passive Housing (Passivhaus)](https://en.wikipedia.org/wiki/Passive_house) and the efficiency of heating systems and air quality. I am a socially driven individual who thrives in collaborative environments that continually plan, design and achieve targets. 
+I am a qualified Sustainability Engineer and qualified Builder/Carpenter with a particular interest and passion in [Passive Housing (Passivhaus)](https://en.wikipedia.org/wiki/Passive_house); as well as the efficiency of heating systems and air quality. I am a socially driven individual who thrives in collaborative environments that continually plan, design and achieve targets. 
 
 From October 2016 to January 2020 I was employed by [Level Construction](https://levelconstruction.co.nz/) in New Zealand.
 
