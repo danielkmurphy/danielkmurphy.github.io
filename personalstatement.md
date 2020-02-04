@@ -4,8 +4,6 @@ title: Personal Statement
 permalink: /personalstatement/
 ---
 
-## Personal Statement
-
 I am a socially driven individual who thrives in collaborative environments that continually plan, design and achieve targets. 
 
 I qualified in 2015 with a Beng (Hons) in Sustainable Energy Engineering. I was awarded AIB Engineering Student of the Year 2015. On completion of my education, I was awarded a scholarship to attend the Green Building Solutions Program in the University of Vienna. 
