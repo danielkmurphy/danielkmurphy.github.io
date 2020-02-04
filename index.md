@@ -13,7 +13,7 @@ From October 2016 to January 2020 I was employed by [Level Construction](https:/
 
 ## My Projects and Passions
 
-From the Menu bar or on the links you can find more details on my learning and employment history as well as more information on the projects I have been involved in. These include:
+From the Menu bar, or by clicking on the links below, you can find more details on my learning and employment history as well as more information on the projects I have been involved in. These include:
 
 * Details of [previous work history, awards, and scholarships](danielkmurphy.github.io/education).
 
