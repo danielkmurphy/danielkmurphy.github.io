@@ -12,8 +12,14 @@ permalink: /education/
 
 ## Honors & Awards
 
+* Apprentice of the Year Award, Placemakers, New Zealand (2018).
+
+* 2x Apprentice of the Month Award, Placemakers, New Zealand (2018).
+
 * AIB Engineering Student of the Year 2015, School of Engineering Waterford Institute of Technology (April 2015).
 
 * Scholarship Recipient to Green Building Solutions 2015, University of Vienna - OeAD Passivhaus (April 2015).
 
 * Passive House Design Charrette Winners, Passive House Authority of Ireland (November 2014).
+
+
