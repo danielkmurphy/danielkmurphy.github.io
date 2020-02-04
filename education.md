@@ -24,11 +24,5 @@ permalink: /education/
 
 * Passive House Design Charrette Winners, Passive House Authority of Ireland (November 2014).
 
-<img align="right" src="files/newspaper.png" alt="drawing" style="width:215px; padding-left: 5px"/>
-
-<figure class="image">
-  <img src="files/newspaper.png" alt="newspaper">
-  <figcaption>Newspaper clipping from the Cromwell News of the Apprentice of the Month awards I received.</figcaption>
-</figure>
-
+<img align="right" src="files/newspaper.png" alt="tinyhouse" description="Newspaper clipping from the Cromwell News of the Apprentice of the Month awards I received." style="width:215px; padding-left: 5px" />
 
