@@ -17,5 +17,7 @@ From the Menu bar or on the links you can find more details on my learning and e
 
 * Details of [previous work history, awards, and scholarships](danielkmurphy.github.io/education).
 
+* A [personal statement](danielkmurphy.github.io/personalstatement).
+
 * Building my own [Tiny Home](danielkmurphy.github.io/tinyhouse).
 
