@@ -22,4 +22,6 @@ permalink: /education/
 
 * Passive House Design Charrette Winners, Passive House Authority of Ireland (November 2014).
 
+<img align="right" src="files/newspaper.png" alt="drawing" style="width:215px; padding-left: 5px"/>
+
 
