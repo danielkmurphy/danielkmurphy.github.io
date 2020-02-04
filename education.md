@@ -6,6 +6,8 @@ permalink: /education/
 
 ## Education
 
+* Qualified Builder / Carpenter NZC Level 4.
+
 * BEng (Hons) Sustainable Energy Engineering at the Waterford Institute of Technology.
 
 * 7 ECTS credits in Sustainability Studies at the Vienna Summer School at the University of Natural Resources and Life Sciences.
