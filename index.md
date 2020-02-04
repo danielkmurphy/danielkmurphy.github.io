@@ -21,3 +21,5 @@ From the Menu bar or on the links you can find more details on my learning and e
 
 * Building my own [Tiny Home](danielkmurphy.github.io/tinyhouse).
 
+* [Work projects](danielkmurphy.github.io/workprojects) during my job in Wanaka.
+
